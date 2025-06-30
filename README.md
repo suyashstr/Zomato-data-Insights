@@ -1,4 +1,3 @@
-![Uploading image.png…]()
 
 <h1 align="center" id="title">Zomato-Data-Insights</h1>
 This project involves analyzing restaurant data from Zomato to extract insights such as ratings distribution, the impact of online ordering, and average costs for different dining types.Data cleaning and visualization techniques were employed using Python libraries like Pandas, Matplotlib, and Seaborn.
